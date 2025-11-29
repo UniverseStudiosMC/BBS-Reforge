@@ -1,0 +1,46 @@
+{
+    "schemaVersion": 1,
+    "id": "bbs",
+    "version": "${version}",
+    "name": "BBS Reforge",
+    "description": "A new generation of video production mod",
+    "authors": [
+        "Over",
+        "AxDev"
+    ],
+    "contributors": [
+        "McHorse (auteur original)"
+    ],
+    "contact": {
+        "homepage": "https://discord.com/invite/VvcwbwAH42"
+    },
+    "license": "ARR",
+    "icon": "assets/bbs/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "mchorse.bbs_mod.BBSMod"
+        ],
+        "client": [
+            "mchorse.bbs_mod.BBSModClient"
+        ]
+    },
+    "mixins": [
+        "bbs.mixins.json",
+        {
+            "config": "bbs.client.mixins.json",
+            "environment": "client"
+        }
+    ],
+    "accessWidener": "bbs.accesswidener",
+    "depends": {
+        "fabricloader": ">=0.16.0",
+        "minecraft": "~1.21.1",
+        "java": ">=21",
+        "fabric-api": "*"
+    },
+    "recommends": {
+        "sodium": "*",
+        "iris": "*"
+    }
+}

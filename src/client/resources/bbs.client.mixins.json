@@ -1,0 +1,42 @@
+{
+    "required": true,
+    "package": "mchorse.bbs_mod.mixin.client",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "CameraMixin",
+        "GameRendererMixin",
+        "MouseMixin",
+        "EntityRendererDispatcherInvoker",
+        "PlayerEntityRendererMixin",
+        "IntegratedServerMixin",
+        "WindowMixin",
+        "LanguageManagerMixin",
+        "LivingEntityMixin",
+        "LivingEntityUpdateMixin",
+        "LivingEntityRendererMixin",
+        "iris.SystemTimeUniformsTimerMixin",
+        "InGameHudMixin",
+        "KeyboardMixin",
+        "ResourceReloadLoggerMixin",
+        "RenderLayerMixin",
+        "ClientWorldPropertiesMixin",
+        "sodium.ColorAttributeMixin",
+        "KeyboardInputMixin",
+        "EntityRendererMixin",
+        "ClientPlayerEntityAccessor",
+        "iris.IrisRenderingPipelineAccessor",
+        "iris.JcppProcessorMixin",
+        "iris.IrisMixin",
+        "iris.SliderElementWidgetMixin",
+        "iris.StringElementWidgetInvoker",
+        "SimpleOptionMixin",
+        "BlockEntityRenderDispatcherMixin",
+        "WorldMixin",
+        "LivingEntityRendererInvoker",
+        "EntityRenderDispatcherMixin",
+        "WorldRendererLightMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
