@@ -1,44 +1,22 @@
-CoGNU Lesser General Public License v3.0 or later
+MIT License
 
-Copyright (C) 2025 OverTV
+Copyright (c) 2025 OverTv
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
 
-This project is licensed under the terms of the GNU Lesser General Public License
-
-as published by the Free Software Foundation, either version 3 of the license,
-
-or (at your option) any later version.
-
-
-
-You should have received a copy of the GNU Lesser General Public License along
-
-with this project. If not, see [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
-
-
-
----
-
-
-
-                      GNU LESSER GENERAL PUBLIC LICENSE
-
-                           Version 3, 29 June 2007
-
-
-
-Copyright (C) 2007 Free Software Foundation, Inc. [https://fsf.org/](https://fsf.org/)
-
-Everyone is permitted to copy and distribute verbatim copies
-
-of this license document, but changing it is not allowed.
-
-
-
-\[⚠️ NOTE : Pour économiser de l’espace, mets ici le texte officiel complet de la LGPL-3.0.
-
-Le texte intégral se trouve sur : https://www.gnu.org/licenses/lgpl-3.0.txt
-
-Tu peux le coller tel quel sous cette ligne.]
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
 
