@@ -31,7 +31,7 @@ Please fork the repository and create your own version.
 License
 -------
 
-BBS Reforge is licensed under the LGPL-3.0-or-later license.
+BBS Reforge is licensed under the MIT License.
 See the LICENSE.md file for full license details.
 
 --------------------------------------------------------------------------
